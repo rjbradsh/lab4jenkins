@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+META-INF/*
+
+# Eclipse files
+*.project
+*.classpath
+*.metadata
+
+# ant-generated stuff
+build/*
